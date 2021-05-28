@@ -1,5 +1,4 @@
 #include <iostream>
-#include <Engine/game_object.hpp>
 #include <Engine/game.hpp>
 
 int main()
