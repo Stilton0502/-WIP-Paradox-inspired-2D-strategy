@@ -4,10 +4,10 @@
 
 #pragma once
 
+class Map;
+
 namespace Engine
 {
-    class Map;
-
     //abstract class for all game related functions
     class Game
     {
